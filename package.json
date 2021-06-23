@@ -1,0 +1,11 @@
+{
+  "name": "rsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:biewxw/rsa.git",
+  "author": "Gabriel <gabrieldeoliveira.gdo23@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "big-integer": "^1.6.26"
+  }
+}
